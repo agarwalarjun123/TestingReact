@@ -14,6 +14,13 @@ const tempArr = [
     email: "ym@gmail.com",
     age: 20,
     onlineStatus: true
+  },
+  {
+    fname: "YashMeh",
+    lname: "Last",
+    email: "ym2@gmail.com",
+    age: 22,
+    onlineStatus: false
   }
 ];
 class App extends Component {
