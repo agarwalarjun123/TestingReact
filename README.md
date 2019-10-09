@@ -1,2 +1,2 @@
 # TestingReact
-This repository contains code for different kinds of tests in React and Redux, made during learning how to test components,actions,reducers and methods.
+This repository contains tests for cases in React and Redux, made during learning how to test various components,actions,reducers and methods.
